@@ -25,8 +25,5 @@ public class LessonServiceImpl implements LessonService{
 		for(Lesson l:lesson) {
 			System.out.println(l);
 		}
-		
-		
 	}
-
 }
